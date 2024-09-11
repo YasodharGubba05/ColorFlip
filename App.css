@@ -1,0 +1,25 @@
+html{
+  margin: 0;
+}
+.heading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buttonElements{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 150px;
+}
+button{
+  width: 200px;
+  height: 50px;
+  font-size: larger;
+  border-radius: 10px;
+}
+.content{
+  height: 100vh;
+  width: 100vw;
+}
